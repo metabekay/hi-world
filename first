@@ -1,0 +1,2 @@
+console.writeline("hello world")
+console.readline()
